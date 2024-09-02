@@ -1,7 +1,7 @@
 {
   "name": "ASITHA-MD",
   "description": "Javascript WhatsApp bot made by ASITHA",
-  "logo": "https://telegra.ph/file/38a4ba6f7a51c15f5feaf.jpg",
+  "logo": "https://telegra.ph/file/dddf7ee9971497aa050ef.jpg",
   "keywords": ["bot"],
   "success_url": "/",
 
@@ -11,15 +11,10 @@
       "required": true
     },  
 
-    "ALIVE_IMG": {
-      "description": "Put your alive img here.",
+    "MONGODB": {
+      "description": "Put your mongodb url.",
       "required": true
-    },
-    
-    "ALIVE_MSG": {
-      "description": "Put your alive msg here.",
-      "required": true
-    }   
+    }
 },
 
      "buildpacks": [
