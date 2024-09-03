@@ -28,6 +28,7 @@
     "mongoose" : "8.5.4",
     "buffer" : "6.0.3",
     "util" : "0.12.5",
-    "stream" : "0.0.3"
+    "stream" : "0.0.3",
+    "ruhend-scraper" : "7.0.6"
   }
 }
