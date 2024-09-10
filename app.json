@@ -12,7 +12,7 @@
     },  
 
     "MONGODB": {
-      "description": "Put your mongodb url.",
+      "description": "Put your mongodb url..",
       "required": true
     }
 },
