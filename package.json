@@ -1,6 +1,5 @@
-{
-  "name": "ASITHA-MD",
-  "version": "1.0.1",
+"name": "ASITHA-MD",
+  "version": "1.0.0",
   "description": "A WhatsApp bot created using Node.js",
   "main": "index.js",
   "scripts": {
@@ -29,6 +28,32 @@
     "buffer" : "6.0.3",
     "util" : "0.12.5",
     "stream" : "0.0.3",
-    "ruhend-scraper" : "7.0.6"
+    "ruhend-scraper" : "7.0.6",
+    "@sl-code-lords/esana-news" : "latest",
+    "@kaveesha-sithum/derana-news" : "latest",
+    "moment-timezone": "latest",
+    "@distube/ytdl-core": "latest",
+    "google-tts-api": "^2.0.2",
+    "express": "latest",
+    "async-g-i-s": "^1.4.0",
+    "file-type": "^16.5.3",
+    "ytdl-core": "latest",
+    "megajs": "^1.1.0",
+    "ruhend-scraper" : "7.0.6",
+    "wa-sticker-formatter": "^4.3.2",
+    "qrcode-terminal": "^0.12.0",
+    "translate-google-api": "^1.0.4",
+    "cheerio" : "1.0.0",
+    "g-i-s": "^2.1.7",
+    "mfiredlcore-vihangayt": "^1.0.0",
+    "@bochilteam/scraper": "latest",
+    "@sl-code-lords/si-subdl": "latest",
+    "@kaveesha-sithum/derana-news": "latest", 
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "@blackamda/telegram-image-url": "^1.0.0",
+    "youtubedl-core": "^4.11.5",
+    "file_size_url": "^1.0.4",
+    "wikipedia":"2.1.2"
+
   }
 }
