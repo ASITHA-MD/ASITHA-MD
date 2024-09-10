@@ -13,7 +13,7 @@
 
 <p align="center">
 <a href="https://github.com/ASITHA-MD/ASITHA-MD.git">
-    <img src="https://i.ibb.co/g9RqK6G/Picsart-24-09-09-17-05-15-622.jpg"  width="700px">
+    <img src="https://imgtr.ee/images/2024/09/10/b4114bd9c3e9b83985d354348e4938b0.jpeg"  width="700px">
 </a>
 <hr>
 
