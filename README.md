@@ -12,8 +12,8 @@
 <hr>
 
 <p align="center">
-<a href="https://github.com/athulakumara604/ASITHA-MD">
-    <img src="https://telegra.ph/file/dddf7ee9971497aa050ef.jpg"  width="700px">
+<a href="https://github.com/ASITHA-MD/ASITHA-MD.git">
+    <img src="https://i.ibb.co/g9RqK6G/Picsart-24-09-09-17-05-15-622.jpg"  width="700px">
 </a>
 <hr>
 
