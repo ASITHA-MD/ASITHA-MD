@@ -1,4 +1,5 @@
-"name": "ASITHA-MD",
+{
+  "name": "ASITHA-MD",
   "version": "1.0.0",
   "description": "A WhatsApp bot created using Node.js",
   "main": "index.js",
