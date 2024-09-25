@@ -54,7 +54,8 @@
     "@blackamda/telegram-image-url": "^1.0.0",
     "youtubedl-core": "^4.11.5",
     "file_size_url": "^1.0.4",
-    "wikipedia":"2.1.2"
+    "wikipedia":"2.1.2",
+    "form-data":"4.0.0"
 
   }
 }
