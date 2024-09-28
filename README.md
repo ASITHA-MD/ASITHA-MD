@@ -31,6 +31,12 @@
 <hr>
 </details>
 
+## BOT CHANNEL 
+
+[![vajira](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)]([https://wa.me/94789123880](https://whatsapp.com/channel/0029VaeyMWv3QxRu4hA6c33Z))
+<hr>
+</details>
+
 ## Deploy.
  [![nima](https://img.shields.io/badge/asitha_md_deploy_on_heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&buttcode=1n2i3m4a)](https://dashboard.heroku.com/new?template=https://github.com/ASITHA-MD/ASITHA-MD)
   
