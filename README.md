@@ -33,7 +33,7 @@
 
 ## BOT CHANNEL 
 
-[![vajira](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)]([https://wa.me/94789123880](https://whatsapp.com/channel/0029VaeyMWv3QxRu4hA6c33Z))
+[![vajira](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://whatsapp.com/channel/0029VaeyMWv3QxRu4hA6c33Z)
 <hr>
 </details>
 
