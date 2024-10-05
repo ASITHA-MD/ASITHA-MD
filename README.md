@@ -60,9 +60,11 @@
 
 [![vajira](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://wa.me/94789123880)
 <hr>
-</details>
+
 <a href="https://whatsapp.com/channel/0029VaeyMWv3QxRu4hA6c33Z"><img src="https://img.shields.io/badge/Join%20Our%20WhatsApp%20Channel-blue"  width="350"></a>
+
 <hr>
+
 <b>DEPLOY</b>
 </br>
 </br>
