@@ -1,34 +1,10 @@
+const fs = require('fs');
+if (fs.existsSync('config.env')) require('dotenv').config({ path: './config.env' });
 
-name: Node.js CI 𝙰𝚂𝙸𝚃𝙷𝙰-𝙼𝙳=jmhiHT4A#10hLYFmajo-Xv4c3dOec1BwZSLU28vUMtJNKYJe63I0
-
-on:
-  push:
-    branches:
-      - main
-  pull_request:
-    branches:
-      - main
-
-jobs:
-  build:
-
-    runs-on: ubuntu-latest
-
-    strategy:
-      matrix:
-        node-version: [20.x]
-
-    steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
-
-    - name: Set up Node.js
-      uses: actions/setup-node@v3
-      with:
-        node-version: ${{ matrix.node-version }}
-
-    - name: Install dependencies
-      run: npm install
-
-    - name: Start application
-      run: npm start
+function convertToBool(text, fault = 'true') {
+    return text === fault ? true : false;
+}
+module.exports = {
+SESSION_ID: process.env.SESSION_ID || "𝙰𝚂𝙸𝚃𝙷𝙰-𝙼𝙳=vrgklSaB#rs1S1x3Mq99NJHK3mrkS0p_ThdhhLrpdJ-hYBwoGbPU",
+MONGODB: process.env.MONGODB || "mongodb+srv://kulathungaasitha319:yjHB0DvFfStNfwPS@cluster0.3oijd.mongodb.net/",//enter mongo db url
+};
