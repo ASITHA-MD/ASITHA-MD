@@ -56,10 +56,10 @@
 
 <hr>
 
- - _Github Account._
-   * [![NIMAYT](https://img.shields.io/badge/HOW_TO_MAKE_GITHUB_ACCOUNT-red?style=for-the-badge&logo=youtube&logoColor=white)]([https://youtube.com/@MRNIMAOFC/](https://youtu.be/NZ6oSZfoR88?si=A4ThxQppWddcYZYD))
- - _mongodb url ( sing up and get mongodb url )_
-   * [![NIMAYT](https://img.shields.io/badge/HOW_TO_MAKE_MONGODB_URL-red?style=for-the-badge&logo=youtube&logoColor=white)]([https://youtube.com/@MRNIMAOFC/](https://youtu.be/FRRQ9l5k5Gs?si=IY_V9qm55-S6ABSG))</br>
+  _Github Account._
+    [![NIMAYT](https://img.shields.io/badge/HOW_TO_MAKE_GITHUB_ACCOUNT-red?style=for-the-badge&logo=youtube&logoColor=white)]([https://youtube.com/@MRNIMAOFC/](https://youtu.be/NZ6oSZfoR88?si=A4ThxQppWddcYZYD))
+  _mongodb url ( sing up and get mongodb url )_
+    [![NIMAYT](https://img.shields.io/badge/HOW_TO_MAKE_MONGODB_URL-red?style=for-the-badge&logo=youtube&logoColor=white)]([https://youtube.com/@MRNIMAOFC/](https://youtu.be/FRRQ9l5k5Gs?si=IY_V9qm55-S6ABSG))</br>
 
  <hr>
 <b>CONTACT OWNER</b>
